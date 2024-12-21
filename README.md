@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pugazh</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Futura&weight=600&size=21&pause=1000&color=1BDCFF&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+a+MERN-Stack+Developer+%F0%9F%92%BB;Let's+Build+Something+Amazing!+%F0%9F%9A%80)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate full-Stock developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pugazhenthi365&label=Profile%20views&color=0e75b6&style=flat" alt="pugazhenthi365" /> </p>
