@@ -21,8 +21,8 @@
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="40" height="40"/>  </p>
 
 
-<p><img align="cernter" src="https://github-readme-stats.vercel.app/api/top-langs?username=pugazhenthi365&show_icons=true&locale=en&layout=compact" alt="pugazhenthi365" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pugazhenthi365&show_icons=true&locale=en&layout=compact" alt="pugazhenthi365" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pugazhenthi365&show_icons=true&locale=en" alt="pugazhenthi365" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pugazhenthi365&" alt="pugazhenthi365" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pugazhenthi365&" alt="pugazhenthi365" /></p>
